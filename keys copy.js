@@ -1,4 +1,4 @@
 module.exports = {
-    wallet: '',
-    api: ''
+    wallet: 'YOUR KEY WORDS',
+    api: 'API KEY'
 }
